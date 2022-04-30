@@ -1,4 +1,5 @@
 // Courtesy of https://github.com/qdm12/godevcontainer/blob/master/.devcontainer/devcontainer.json
+//             https://github.com/microsoft/vscode-dev-containers/tree/main/containers/go
 {
     "name": "transcoder-cli-devcontainer",
     "image": "mcr.microsoft.com/vscode/devcontainers/go:1.18-bullseye",
